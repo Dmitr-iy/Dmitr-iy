@@ -5,6 +5,11 @@
 -----------------------
 Закончил курс в онлайн-школе Skillfactory в 2023 году.
 -----------------------
+Прошел виртуальную стажировку
+### [ Virtual training certificate ](Koshel_Dmitriy.pdf)
+Учавствовал в двух Мегахакатонах, в одном из которых моя команда заняла первое место
+### [ Мегахакатон ](hakaton.pdf)
+### [ Мегахакатон ](hakaton1.pdf)
 ### Контакты
 - [Telegram](https://t.me/faund_404)
 - [Email](mailto:kosheld@inbox.ru)
@@ -25,9 +30,6 @@
 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
-                
-## [ Virtual training certificate ](Koshel_Dmitriy.pdf)
-## [ Мегахакатон ](hakaton.pdf)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dmitr-iy&theme=dark&background=000000)](https://git.io/streak-stats)
 
