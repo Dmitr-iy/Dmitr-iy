@@ -27,7 +27,7 @@
 ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
                 
 ## [ Virtual training certificate ](Koshel_Dmitriy.pdf)
-## [ Мегахакатон ](Кошель_Дмитрий.pdf)
+## [ Мегахакатон ](hakaton.pdf)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dmitr-iy&theme=dark&background=000000)](https://git.io/streak-stats)
 
